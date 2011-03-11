@@ -1,0 +1,23 @@
+{ "version": "0.0.1"
+
+, "name": "node-api"
+, "main": "node-api.js"
+
+, "author": "Laurie Harper (http://laurie.holoweb.net/)"
+, "homepage": "http://www.github.com/laurie71/node-api/"
+, "description": "Collect Node globals & core APIs under `global.node`"
+, "licenses": { "type": "MIT" }
+
+, "keywords": 
+    [ "load"
+    , "modules"
+    , "require"
+    ]
+
+, "repository": 
+    { "type": "git"
+    , "url": "git://github.com/laurie71/node-api.git"
+    }
+    
+, "engines": { "node": "~0.4" }
+}
